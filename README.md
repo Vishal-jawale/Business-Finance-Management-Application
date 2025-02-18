@@ -1,4 +1,4 @@
-# Business-Finance-Management-System
+# Business-Finance-Management-Application
 
 ## Overview
 The Business Finance Management Application (BFMA) is a web-based solution designed to help administrators efficiently manage multiple projects and associated events. It provides a centralized dashboard for project tracking, event scheduling, and automated email notifications.
